@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    background-color: aquamarine;
+    font-family: elephant;
+    padding: 10px 50px;
+    margin:  10px 50px;
+    border-radius: 70px;
+}
+.child img{
+    height: auto;
+    width: 300px;
+    border-radius: 50px;
+
+    
+}
+
+.child{
+    margin: 10px;
+    box-shadow: 0 0 10px black;
+    border-radius: 50px;
+}
+
+.child{
+    display: inline-block;
+    margin: 10px 0 0 70px;
+
+}
